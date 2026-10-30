@@ -1,0 +1,10 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Library Management System with Entity Relationship Explorer",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev"
+  }
+}
+
